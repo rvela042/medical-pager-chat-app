@@ -14,4 +14,4 @@ The application is a full Realtime Chat Application that uses React on the front
 2. In your terminal, navigate to the project directory and run `npm i` to install the required dependencies.
 3. Run `npm start` to start the development server for both client and server side.
 
-By the end of this tutorial, you will have a functioning medical pager chat application that can be used for real-time communication between medical professionals.
+By the end, you will have a functioning medical pager chat application that can be used for real-time communication between medical professionals.
